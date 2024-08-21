@@ -1,2 +1,2 @@
-## BufferedClass vs Scanner class
+## BufferedReader Class vs Scanner class
 
